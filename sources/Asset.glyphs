@@ -206,7 +206,7 @@ tag = case;
 fontMaster = (
 {
 axesValues = (
-0
+400
 );
 customParameters = (
 {
