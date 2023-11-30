@@ -17743,7 +17743,7 @@ unicode = 8203;
 glyphname = period;
 kernLeft = KO_period;
 kernRight = KO_period;
-lastChange = "2023-11-30 04:50:27 +0000";
+lastChange = "2023-11-30 10:42:52 +0000";
 layers = (
 {
 layerId = m01;
@@ -17974,23 +17974,28 @@ unicode = 59;
 glyphname = ellipsis;
 kernLeft = KO_ellipsis;
 kernRight = KO_ellipsis;
+lastChange = "2023-11-30 10:43:31 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+pos = (1926,0);
 ref = period;
 },
 {
+pos = (963,0);
 ref = period;
 },
 {
 ref = period;
 }
 );
-width = 1147;
+width = 3073;
 }
 );
+metricLeft = period;
+metricRight = period;
 unicode = 8230;
 },
 {
