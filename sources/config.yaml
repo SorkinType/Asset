@@ -1,5 +1,5 @@
 sources:
   - Asset.glyphs
-axisOrder:
-  - wght
-
+buildVariable: false
+buildOTF: false
+buildWebfont: false
